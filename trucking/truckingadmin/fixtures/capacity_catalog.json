@@ -1,0 +1,53 @@
+[
+
+      {
+        "model": "truckingadmin.capacitycatalog",
+        "pk": 1,
+        "fields": {
+          "name": "Capacity category name - 1",
+          "average_weight" : 1,
+          "average_volume" : 1
+        }
+      },
+
+    {
+        "model": "truckingadmin.capacitycatalog",
+        "pk": 2,
+        "fields": {
+            "name": "Capacity category name - 2",
+            "average_weight" : 2,
+            "average_volume" : 2
+        }
+    },
+
+    {
+        "model": "truckingadmin.capacitycatalog",
+        "pk": 3,
+        "fields": {
+            "name": "Capacity category name - 3",
+            "average_weight" : 3,
+            "average_volume" : 3
+        }
+    },
+
+    {
+        "model": "truckingadmin.capacitycatalog",
+        "pk": 4,
+        "fields": {
+            "name": "Capacity category name - 4",
+            "average_weight" : 4,
+            "average_volume" : 4
+        }
+    },
+
+    {
+        "model": "truckingadmin.capacitycatalog",
+        "pk": 5,
+        "fields": {
+            "name": "Capacity category name - 5",
+            "average_weight" : 5,
+            "average_volume" : 5
+        }
+    }
+
+]

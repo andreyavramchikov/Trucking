@@ -1,0 +1,67 @@
+[
+    {
+        "model": "truckingadmin.customer",
+        "pk": 1,
+        "fields": {
+            "surname" : "customer surname - 1",
+            "name" : "customer name -1",
+            "middle_name" : "customer midlename - 1",
+            "passport_number" : "123456789",
+            "telephone_number" : 12345,
+            "email" : "aldrson@gmail.com"
+
+        }
+    },
+
+    {
+        "model": "truckingadmin.customer",
+        "pk": 2,
+        "fields": {
+            "surname" : "customer surname - 2",
+            "name" : "customer name - 2 ",
+            "middle_name" : "customer midlename - 2",
+            "passport_number" : "123456782",
+            "telephone_number" : 12345,
+            "email" : "aldrson@gmail.com"
+        }
+    },
+
+    {
+        "model": "truckingadmin.customer",
+        "pk": 3,
+        "fields": {
+            "surname" : "customer surname - 3",
+            "name" : "customer name - 3 ",
+            "middle_name" : "customer midlename - 3",
+            "passport_number" : "123456783",
+            "telephone_number" : 12345,
+            "email" : "aldrson@gmail.com"
+        }
+    },
+
+    {
+        "model": "truckingadmin.customer",
+        "pk": 4,
+        "fields": {
+            "surname" : "customer surname - 4",
+            "name" : "customer name - 4 ",
+            "middle_name" : "customer midlename - 4",
+            "passport_number" : "123456784",
+            "telephone_number" : 12345,
+            "email" : "aldrson@gmail.com"
+        }
+    },
+
+    {
+        "model": "truckingadmin.customer",
+        "pk": 5,
+        "fields": {
+            "surname" : "customer surname - 5",
+            "name" : "customer name - 5 ",
+            "middle_name" : "customer midlename - 5",
+            "passport_number" : "123456785",
+            "telephone_number" : 12345,
+            "email" : "aldrson@gmail.com"
+        }
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "model": "truckingadmin.truck",
+        "pk": 1,
+        "fields": {
+            "brand" : "truck brand - 1",
+            "registration_number" : "123456789",
+            "vehicle_inspection" : "vehicle_inspection - 1",
+            "released_year" : "2011-03-16 16:07:32",
+            "carrying_capacity" : 1,
+            "holding_capacity" : 1,
+            "driver" : 1
+        }
+    },
+
+    {
+        "model": "truckingadmin.truck",
+        "pk": 2,
+        "fields": {
+            "brand" : "truck brand - 2",
+            "registration_number" : "123456782",
+            "vehicle_inspection" : "vehicle_inspection - 2",
+            "released_year" : "2011-03-16 16:07:32",
+            "carrying_capacity" : 2,
+            "holding_capacity" : 2,
+            "driver" : 2
+        }
+    },
+
+    {
+        "model": "truckingadmin.truck",
+        "pk": 3,
+        "fields": {
+            "brand" : "truck brand - 3",
+            "registration_number" : "123456783",
+            "vehicle_inspection" : "vehicle_inspection - 3",
+            "released_year" : "2011-03-16 16:07:32",
+            "carrying_capacity" : 3,
+            "holding_capacity" : 3,
+            "driver" : 3
+        }
+    },
+
+    {
+        "model": "truckingadmin.truck",
+        "pk": 4,
+        "fields": {
+            "brand" : "truck brand - 4",
+            "registration_number" : "123456784",
+            "vehicle_inspection" : "vehicle_inspection - 4",
+            "released_year" : "2011-03-16 16:07:32",
+            "carrying_capacity" : 4,
+            "holding_capacity" : 4,
+            "driver" : 4
+        }
+    },
+
+    {
+        "model": "truckingadmin.truck",
+        "pk": 5,
+        "fields": {
+            "brand" : "truck brand - 5",
+            "registration_number" : "123456785",
+            "vehicle_inspection" : "vehicle_inspection - 5",
+            "released_year" : "2011-03-16 16:07:32",
+            "carrying_capacity" : 5,
+            "holding_capacity" : 5,
+            "driver" : 5
+        }
+    }
+]

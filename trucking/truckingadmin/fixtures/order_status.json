@@ -1,0 +1,51 @@
+[
+    {
+        "model": "truckingadmin.orderstatus",
+        "pk": 1,
+        "fields": {
+            "agreement_sign" : 0,
+            "payment" :0,
+            "realization" : 0
+        }
+    },
+
+    {
+        "model": "truckingadmin.orderstatus",
+        "pk": 2,
+        "fields": {
+            "agreement_sign" : 0,
+            "payment" :0,
+            "realization" : 0
+        }
+    },
+
+    {
+        "model": "truckingadmin.orderstatus",
+        "pk": 3,
+        "fields": {
+            "agreement_sign" : 0,
+            "payment" :0,
+            "realization" : 0
+        }
+    },
+
+    {
+        "model": "truckingadmin.orderstatus",
+        "pk": 4,
+        "fields": {
+            "agreement_sign" : 0,
+            "payment" :0,
+            "realization" : 0
+        }
+    },
+
+    {
+        "model": "truckingadmin.orderstatus",
+        "pk": 5,
+        "fields": {
+            "agreement_sign" : 0,
+            "payment" :0,
+            "realization" : 0
+        }
+    }
+]

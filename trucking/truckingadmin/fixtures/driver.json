@@ -1,0 +1,71 @@
+[
+  {
+    "model": "truckingadmin.driver",
+    "pk": 1,
+    "fields": {
+        "surname" : "Driver surname - 1",
+        "name" : "Driver name -1",
+        "middle_name" : "Driver midlename - 1",
+        "passport_number" : "123456789",
+        "employment_record_number" : "12345678",
+        "labor_category" : 1,
+        "number_personal_affairs" : 1
+    }
+  },
+  
+  {
+    "model": "truckingadmin.driver",
+    "pk": 2,
+      "fields": {
+          "surname" : "Driver surname - 2",
+          "name" : "Driver name - 2 ",
+          "middle_name" : "Driver midlename - 2",
+          "passport_number" : "123456782",
+          "employment_record_number" : "12345672",
+          "labor_category" : 2,
+          "number_personal_affairs" : 2
+      }
+   },
+
+    {
+        "model": "truckingadmin.driver",
+        "pk": 3,
+        "fields": {
+            "surname" : "Driver surname - 3",
+            "name" : "Driver name - 3 ",
+            "middle_name" : "Driver midlename - 3",
+            "passport_number" : "123456783",
+            "employment_record_number" : "12345673",
+            "labor_category" : 3,
+            "number_personal_affairs" : 3
+        }
+    },
+
+    {
+        "model": "truckingadmin.driver",
+        "pk": 4,
+        "fields": {
+            "surname" : "Driver surname - 4",
+            "name" : "Driver name - 4 ",
+            "middle_name" : "Driver midlename - 4",
+            "passport_number" : "123456784",
+            "employment_record_number" : "12345674",
+            "labor_category" : 4,
+            "number_personal_affairs" : 4
+        }
+    },
+
+    {
+        "model": "truckingadmin.driver",
+        "pk": 5,
+        "fields": {
+            "surname" : "Driver surname - 5",
+            "name" : "Driver name - 5 ",
+            "middle_name" : "Driver midlename - 5",
+            "passport_number" : "123456785",
+            "employment_record_number" : "12345675",
+            "labor_category" : 5,
+            "number_personal_affairs" : 5
+        }
+    }
+]

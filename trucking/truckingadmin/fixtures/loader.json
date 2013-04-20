@@ -1,0 +1,57 @@
+[
+  {
+    "model": "truckingadmin.loader",
+    "pk": 1,
+    "fields": {
+      "surname": "Loader Surname - 1",
+      "name" : "Loader name - 1",
+       "middle_name": "Loader middle_name - 1",
+        "passport_number" : "123456789"
+    }
+  },
+
+    {
+        "model": "truckingadmin.loader",
+        "pk": 2,
+        "fields": {
+            "surname": "Loader Surname - 2",
+            "name" : "Loader name - 2",
+            "middle_name": "Loader middle_name - 2",
+            "passport_number" : "123456709"
+        }
+    },
+
+    {
+        "model": "truckingadmin.loader",
+        "pk": 3,
+        "fields": {
+            "surname": "Loader Surname - 3",
+            "name" : "Loader name - 3",
+            "middle_name": "Loader middle_name - 3",
+            "passport_number" : "123456780"
+        }
+    },
+
+    {
+        "model": "truckingadmin.loader",
+        "pk": 4,
+        "fields": {
+            "surname": "Loader Surname - 4",
+            "name" : "Loader name - 4",
+            "middle_name": "Loader middle_name - 4",
+            "passport_number" : "123456799"
+        }
+    },
+
+    {
+        "model": "truckingadmin.loader",
+        "pk": 5,
+        "fields": {
+            "surname": "Loader Surname - 5",
+            "name" : "Loader name - 5",
+            "middle_name": "Loader middle_name - 5",
+            "passport_number" : "123456798"
+        }
+    }
+
+]

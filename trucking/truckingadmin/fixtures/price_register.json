@@ -1,0 +1,48 @@
+[
+  {
+    "model": "truckingadmin.priceregister",
+    "pk": 1,
+    "fields": {
+      "name": "Name of Price Register - 1",
+      "description" : "Description of priceRegister - 1",
+      "price" : 1
+     }
+  },
+
+    {
+        "model": "truckingadmin.priceregister",
+        "pk": 2,
+        "fields": {
+            "name": "Name of Price Register - 2",
+            "description" : "Description of priceRegister - 2",
+            "price" : 1
+        }
+    },
+    {
+        "model": "truckingadmin.priceregister",
+        "pk": 3,
+        "fields": {
+            "name": "Name of Price Register - 3",
+            "description" : "Description of priceRegister - 3",
+            "price" : 3
+        }
+    },
+    {
+        "model": "truckingadmin.priceregister",
+        "pk": 4,
+        "fields": {
+            "name": "Name of Price Register - 4",
+            "description" : "Description of priceRegister - 4",
+            "price" : 4
+        }
+    },
+    {
+        "model": "truckingadmin.priceregister",
+        "pk": 5,
+        "fields": {
+            "name": "Name of Price Register - 5",
+            "description" : "Description of priceRegister - 5",
+            "price" : 5
+        }
+    }
+]

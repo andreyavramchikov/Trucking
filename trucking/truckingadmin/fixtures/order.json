@@ -1,0 +1,86 @@
+[
+    {
+        "model": "truckingadmin.order",
+        "pk": 1,
+        "fields": {
+            "date_begin_moving" : "2011-03-16 16:07:32",
+            "date_end_moving" : "2011-03-17 16:07:32",
+            "distance" : 1,
+            "address_start" : "Address STart - 1",
+            "address_end" : "Address End - 1",
+            "weight" : 1,
+            "volume" : 1,
+            "price" : 1,
+            "order_status" : 1,
+            "customer" : 1
+        }
+    },
+
+    {
+        "model": "truckingadmin.order",
+        "pk": 2,
+        "fields": {
+            "date_begin_moving" : "2011-03-16 16:07:32",
+            "date_end_moving" : "2011-03-17 16:07:32",
+            "distance" : 2,
+            "address_start" : "Address STart - 2",
+            "address_end" : "Address End - 2",
+            "weight" : 2,
+            "volume" : 2,
+            "price" : 2,
+            "order_status" : 2,
+            "customer" : 2
+        }
+    },
+
+    {
+        "model": "truckingadmin.order",
+        "pk": 3,
+        "fields": {
+            "date_begin_moving" : "2011-03-16 16:07:32",
+            "date_end_moving" : "2011-03-17 16:07:32",
+            "distance" : 3,
+            "address_start" : "Address STart - 3",
+            "address_end" : "Address End - 3",
+            "weight" : 3,
+            "volume" : 3,
+            "price" : 3,
+            "order_status" : 3,
+            "customer" : 3
+        }
+    },
+
+    {
+        "model": "truckingadmin.order",
+        "pk": 4,
+        "fields": {
+            "date_begin_moving" : "2011-03-16 16:07:32",
+            "date_end_moving" : "2011-03-17 16:07:32",
+            "distance" : 4,
+            "address_start" : "Address STart - 4",
+            "address_end" : "Address End - 4",
+            "weight" : 4,
+            "volume" : 4,
+            "price" : 4,
+            "order_status" : 4,
+            "customer" : 4
+        }
+    },
+
+    {
+        "model": "truckingadmin.order",
+        "pk": 5,
+        "fields": {
+            "date_begin_moving" : "2011-03-16 16:07:32",
+            "date_end_moving" : "2011-03-17 16:07:32",
+            "distance" : 5,
+            "address_start" : "Address STart - 5",
+            "address_end" : "Address End - 5",
+            "weight" : 5,
+            "volume" : 5,
+            "price" : 5,
+            "order_status" : 5,
+            "customer" : 5
+        }
+    }
+]
